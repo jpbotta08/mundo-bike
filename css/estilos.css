@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a {
+    color: inherit;
+}
+
+.section1-1 {
+    background-color: rgba(32, 95, 32, 0.89);
+    color: white;
+}
+
+.h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+.h2 {
+    font-size: 2rem;
+    margin-left: 14%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+.imagen1 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.p1 {
+    font-size: 20px;
+    margin: 5px;
+    letter-spacing: 1px;
+}
+.h3 {
+
+}
+.p2 {
+
+}
+.lista1 {
+    padding-left: 2rem;
+
+}
+.section1-2 {
+    background-color:rgb(218, 218, 25) ;
+}
+.h4 {
+
+}
+.p3 {
+
+}
